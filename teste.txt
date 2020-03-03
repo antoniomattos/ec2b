@@ -6,4 +6,6 @@ Tendo em vista que os custa com o combustível é barato devido ser extraído do ar
 O carro voador é pilotado por AI coletando dados enviados através de sensores de presença, calor e supersônico e com câmeras capazes de obter imagens por infravermelha, raio x de alta resolução.
 Com os sensores carro é capaz de identificar objetos, placas de sinalização, humanos, animais e desviar dos mesmo.
 
-Com o GPS da aeronave é possível fazer a navegação e a geo-localização.
+om o GPS da aeronave é possível fazer a navegação e a geo-localização.
+
+revisado
