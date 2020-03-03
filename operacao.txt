@@ -1,0 +1,9 @@
+Operação
+
+Para a execução do projeto será necessário um aplicativo mobile com configurações para os passageiro  e também será disponível um site na web para consultas, configurações, cadastro dos passageiros e ajuda ao usuário.
+
+No aplicativo passageiro será necessário, cadastro do passageiro com dados pessoais e foto do rosto, cadastro de forma de pagamento, cadastro de acesso.
+O funcionamento dos software consiste levar o passageiro do ponto de origem ao ponto de destino de no máximo 40 km utilizando o aplicativo mobile, onde o aplicativo utiliza recursos do smartphone para obter a geolocalização do usuário, a fim de definir o ponto de origem
+
+O Carro voador será guiado por inteligência artificial, utilizando sensores e câmeras instalado no carro voador.
+O carro terá como combustível hidrogênio, com o reator que extrai a umidade do ar e transforma em hidrogênio que por sua vez gera propulsão para os reatores e alimentando os motores elétricos.

@@ -1,0 +1,3 @@
+O veículo voador é capaz de transportar até cinco passageiros e atinge velocidade máxima de 100 km/h. Com a capacidade de decolar e pousar verticalmente, o carro voador é pilotado remotamente a partir do solo por sistema de inteligência artificial. O carro voador possui duas asas paralelas, equipadas com 40 motores elétricos impulsionados por gerador a hidrogênio, os motores se inclinam ao solo para realizar a decolagem e depois se posicionam de acordo com a orientação de propulsão necessária.
+
+A ideia do projeto é que o carro faça viagem de curtas distancia, atingindo para viagens de até 10 dólares (distância máxima 40 km)

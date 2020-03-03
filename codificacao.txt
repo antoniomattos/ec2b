@@ -1,0 +1,6 @@
+Codificação
+
+A codificaçao será em phyton porque é a linguagem que utilizamos e é perfeita para 
+iniciantes em programação, é uma linguagem que comunica-se de forma transparente com outros sistemas ou linguagens, é multiplataforma, podendo ser usada em sistemas Linux,
+Mac OS ou Windows, de forma que é uma linguagem simples, robusta e segura.
+Para Mobile será feita a codificação via java, pois é uma linguagem perfeita para plataformas mobile

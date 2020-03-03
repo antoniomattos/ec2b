@@ -1,0 +1,3 @@
+design
+
+Será utilizado plataforma mobile, plataforma web, framework (inteligencia artificial), banco de dados ORACLE.
